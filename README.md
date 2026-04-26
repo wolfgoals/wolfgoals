@@ -127,6 +127,6 @@ All of these roles share a common requirement: proof that you can step into a ro
 
 ## Contact
 
-Open to cloud engineering, cloud security, and DevSecOps roles — remote preferred.
+Open to cloud engineering, cloud security, and DevSecOps roles — remote preferred. open for the Data Center too.
 
 **[LinkedIn](https://www.linkedin.com/in/jonathan-harrison-ot-security-specialist/)** · **[Email](wolfiegoals11@gmail.com)**
